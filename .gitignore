@@ -41,3 +41,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.resources
+*.Cache
+WindowsFormsApplication1/obj/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+*.pdb
+*.exe
+WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
+WindowsFormsApplication1/bin/Release/Readme.txt
+WindowsFormsApplication1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.FileListAbsolute.txt
+WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.config
+WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.vshost.exe.manifest
+WindowsFormsApplication1/bin/Release/WindowsFormsApplication1.exe.config
+WindowsFormsApplication1/obj/Release/WindowsFormsApplication1.csproj.FileListAbsolute.txt
+WindowsFormsApplication1/obj/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+WindowsFormsApplication1/obj/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+WindowsFormsApplication1/obj/Release/JPSelfserviceGetPV.csproj.FileListAbsolute.txt
+WindowsFormsApplication1/bin/Release/WindowsFormsApplication1.vshost.exe.config
+WindowsFormsApplication1/bin/Release/WindowsFormsApplication1.vshost.exe.manifest
+WindowsFormsApplication1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+WindowsFormsApplication1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+WindowsFormsApplication1/obj/Debug/JPSelfserviceGetPV.csproj.FileListAbsolute.txt
+.vs/JPSelfserviceGetPV/v14/.suo
